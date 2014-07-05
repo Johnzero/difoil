@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="230639666">
+    <data-source source="LOCAL" name="Rails difoil: production" uuid="bdac4891-716a-4969-91f6-f1721395a8f5">
+      <driver-ref>mysql</driver-ref>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://127.0.0.1/redmine</jdbc-url>
+      <user-name>root</user-name>
+      <user-password>dfc9dfcedfd9dfdcdfcedfdcdfcedfd9</user-password>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails difoil: development" uuid="6bdf29f0-c72e-4bdd-8bf4-c958679ea2a9">
+      <driver-ref>mysql</driver-ref>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://127.0.0.1/redmine_development</jdbc-url>
+      <user-name>root</user-name>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails difoil: test" uuid="93ca6e72-4ebd-4088-abf7-9abdede2d198">
+      <driver-ref>mysql</driver-ref>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://127.0.0.1/redmine_test</jdbc-url>
+      <user-name>root</user-name>
+      <libraries />
+    </data-source>
+  </component>
+</project>
+
